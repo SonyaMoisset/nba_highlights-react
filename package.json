@@ -19,7 +19,7 @@
     "eject": "react-scripts eject"
   },
   "devDependencies": {
-    "react-redux": "7.0.3",
+    "react-redux": "7.2.2",
     "redux": "4.0.4",
     "redux-promise": "0.6.0"
   }
